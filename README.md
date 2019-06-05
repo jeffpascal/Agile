@@ -1,6 +1,7 @@
 # Agile
 - Agile is a set of human values
 - Agile is about simplicity
+https://imgur.com/a/amfERWi
 ### one important question
 - **how do i get better?**
 - **what did i do to get better?**
