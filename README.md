@@ -1,6 +1,6 @@
 # Agile
-Agile is a set of human values
-
+- Agile is a set of human values
+- Agile is about simplicity
 ### one important question
 - **how do i get better?**
 - **what did i do to get better?**
@@ -37,6 +37,15 @@ Team dynamics:
 - collaboration and teamwork
 - empowered and self directed teams
 
+# Agile values
+- trust
+- respect
+- openness
+- courage
+- culture
+
+## Trust is a set of expectations
+
 ## Importance of conflicts
 - have conflicts while also respecting the person.
 - this is how innovation happens
@@ -45,4 +54,4 @@ Team dynamics:
 ### Example:
 - if you see someone disrespecting someone on the street and you just walk by, disrespect is one of your values
   -  nobody is calling it up
-
+  
