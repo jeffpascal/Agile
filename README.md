@@ -66,3 +66,6 @@ Team dynamics:
 - manage the funnel
 - prioritize backlog
 - work smarter
+
+# Leaders need to focus on doing the right work and the work right
+# Work in progress limit. Don't do too many things at a time
