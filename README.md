@@ -56,3 +56,13 @@ Team dynamics:
 - if you see someone disrespecting someone on the street and you just walk by, disrespect is one of your values
   -  nobody is calling it up
   
+### You can only deliver as fast as the slowest part of your process
+- the trick is for you to find the bottleneck then address it.
+
+# Focus on one thing at a time
+- phenomen is called **switching loss**
+- when you change from one task to another, you get less done
+
+- manage the funnel
+- prioritize backlog
+- work smarter
