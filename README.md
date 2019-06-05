@@ -15,3 +15,13 @@
   - anyone can show leadership
   - everyone is a leader
 
+- take time to think and learn
+
+Team dynamics:
+- you need to trust eachother
+- 2 important values:
+  - courage
+  - openness
+  
+  
+Agile is a set of human values
