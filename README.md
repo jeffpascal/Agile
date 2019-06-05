@@ -1,4 +1,6 @@
 # Agile
+Agile is a set of human values
+
 ### one important question
 - **how do i get better?**
 - **what did i do to get better?**
@@ -22,6 +24,13 @@ Team dynamics:
 - 2 important values:
   - courage
   - openness
-  
-  
-Agile is a set of human values
+
+# Agile principles
+- Begin with clarity about the outcome, and let it guide every step along the way
+- Listen, iterate, learn and course correct rather than wait until it's perfect
+- encourage self-direction for teams to unleash innovation instead of concentrating leadership in the hands of a select few
+- focus on the customer and business vlaue
+- iterative and fast
+- flexible, adaptive, and continuously improving
+- collaboration and teamwork
+- empowered and self directed teams
