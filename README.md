@@ -74,3 +74,7 @@ Team dynamics:
 # Agile is about time boxing
 - sprints are important
 - if a task is given 3 months, it takes 3 months to do even if it can be done in one week
+
+# Agile frameworks
+- less
+- scrum
