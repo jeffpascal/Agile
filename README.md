@@ -102,3 +102,8 @@ Team dynamics:
 - 5 why's
 - every iteration
 - we hold retrospectives to learn and improve
+
+
+### Identify and fix bottlenecks
+- you are as fast as your bottleneck
+  - reasons for bottlenecks are many.. Either skills are lacking or no motivation to work on it
