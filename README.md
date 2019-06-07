@@ -107,3 +107,5 @@ Team dynamics:
 ### Identify and fix bottlenecks
 - you are as fast as your bottleneck
   - reasons for bottlenecks are many.. Either skills are lacking or no motivation to work on it
+- lean pdca model
+  - plan - do - check - act
