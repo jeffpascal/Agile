@@ -78,3 +78,20 @@ Team dynamics:
 # Agile frameworks
 - less
 - scrum
+
+
+# Stand-ups - daily meetings
+- be punctual
+- talk to the card
+- what did they do yesterday
+- what's planned and left to-do
+- blockers in reaching deadline
+- make notes to discuss offline
+- keep it short and to the point
+- take longer discussions offline
+- make a note of who does not have work
+- move the card only after talking to it
+- pull a new card if needed
+- never embarass anyone in public
+- have the hard conversation in private
+- update the virtual wall later
