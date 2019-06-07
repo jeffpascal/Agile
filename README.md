@@ -95,3 +95,10 @@ Team dynamics:
 - never embarass anyone in public
 - have the hard conversation in private
 - update the virtual wall later
+
+# Retrospectives
+- think what you can do better
+- iteration managers should keep retrospectives safe without blame
+- 5 why's
+- every iteration
+- we hold retrospectives to learn and improve
