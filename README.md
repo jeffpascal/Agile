@@ -1,6 +1,7 @@
 # Agile
 ## TODO 
 - finish IBM badge claim
+- get badge
 
 - Agile is a set of human values
 - Agile is about simplicity
